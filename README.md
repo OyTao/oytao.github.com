@@ -1,1 +1,1 @@
-# oytao.github.com
+# oytao.github.com (personal blog)
